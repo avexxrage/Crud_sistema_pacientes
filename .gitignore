@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.db
+*.db-shp
+*.db-wal
+.vs/
+node_modules/
+dist/
+.angular/
